@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Open the website here: [AI-Era Technology One-Week Bootcamp] (https://alizeeyi.github.io/ai-tech-week/)
+Open the website here: [AI-Era Technology One-Week Bootcamp](https://alizeeyi.github.io/ai-tech-week/)
 
 A public, static Chinese learning website for beginners who want to build technical judgment in the AI era. It can be opened locally, hosted on GitHub Pages, or deployed to Vercel.
 
