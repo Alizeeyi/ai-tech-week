@@ -1,5 +1,9 @@
 # AI-Era Technology One-Week Bootcamp
 
+## Live Demo
+
+Open the website here: [AI-Era Technology One-Week Bootcamp] (https://alizeeyi.github.io/ai-tech-week/)
+
 A public, static Chinese learning website for beginners who want to build technical judgment in the AI era. It can be opened locally, hosted on GitHub Pages, or deployed to Vercel.
 
 The goal is not to turn someone into a software engineer in seven days. The goal is to help non-technical learners understand the basic structure behind AI products:
@@ -112,6 +116,12 @@ If you later want to turn the simulated tools into real AI tools, use this safer
 3. Let the frontend or Python script call your own backend only.
 4. Let the backend call the AI model provider.
 5. Add input limits, error handling, logging, cost controls, privacy notices, and human review for important outputs.
+
+## License
+
+Code in this repository is licensed under the MIT License.
+
+Educational content, including course text, explanations, exercises, quizzes, and learning design, is licensed under CC BY-NC 4.0.
 
 ## Future Improvements
 
